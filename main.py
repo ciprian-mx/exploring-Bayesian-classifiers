@@ -13,9 +13,8 @@ def main():
     
     models = {
         "Scikit-Learn Baseline": GaussianNB(),
-        "Manual Naive Bayes": NaiveBayesManual()
-        # TANManual() 
-        # BBNManual()
+        "Manual Naive Bayes": NaiveBayesManual(),
+        "Tree augmented Naive Bayes": TANManual(),
     }
     
     for name, model in models.items():
