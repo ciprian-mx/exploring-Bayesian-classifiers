@@ -30,7 +30,7 @@ Pentru a rula acest proiect, asigurați-vă că aveți instalat **Python 3.8+**.
 4. Instalați pachetele necesare:
     ```bash
     pip install -r requirements.txt
-```
+
 ## Rulare
 
 Pentru a vedea rezultatele finale și comparația dintre modele, rulați scriptul principal din terminal:
