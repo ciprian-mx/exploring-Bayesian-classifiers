@@ -37,7 +37,7 @@ Pentru a vedea rezultatele finale și comparația dintre modele, rulați scriptu
 
     ```bash
     python main.py
-```
+
 Dacă doriți să explorați etapele de curățare a datelor sau varianta implementată cu scikit-learn, puteți deschide fișierele .ipynb folosind Jupyter Notebook sau un editor compatibil (ex: VS Code).
 
 
